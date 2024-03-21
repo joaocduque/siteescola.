@@ -1,1 +1,2 @@
-cabeçalho{background-color: black;color: floralwhite;
+cabeçalho{background-color: black;color: floralwhite;}
+.Cabeçalho-lista-item {display: inline-block; margin: 0 16px; font-size:20px;}
