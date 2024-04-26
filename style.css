@@ -11,4 +11,26 @@ cabeçalho{background-color: black;color: floralwhite;}
     .corinthians-div-conteudo{width: 45%;}
     .corinthians-titulo{padding: 30px 0}
 
-    .jogador{ padding: 24px 0; background: ;}
+    .jogador{ padding: 24px 0; background-color:black ;}
+
+ .jogador-imagem{ width: 140px;}
+
+ .jogador-div{
+    text-align: center;
+    padding: 16px 0; }
+
+    .jogador-titulo{
+        text-align: center;
+        padding: 50px 0;
+        color: #ffffff;
+    }
+
+   .jogador-todos{
+    display:grid;
+    grid-template-columns: 20% 20% 20% 20%;
+   }
+
+   .jogador-nome {color:black;}
+      
+
+
