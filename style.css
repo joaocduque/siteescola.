@@ -1,4 +1,4 @@
-cabeçalho{background-color: black;color: floralwhite;}
+.cabeçalho{background-color: black;color: floralwhite;}
 .Cabeçalho-lista-item {display: inline-block; margin: 0 16px; font-size:20px;}
 .corinthians-imagem{width : 25%;}
 .corinthians{
@@ -30,7 +30,11 @@ cabeçalho{background-color: black;color: floralwhite;}
     grid-template-columns: 20% 20% 20% 20%;
    }
 
-   .jogador-nome {color:black;}
+   .jogador-nome {color:rgb(255, 255, 255);}
       
-
+.rodape{
+    background-color: white;
+    color:black;
+    text-align: center;
+}
 
