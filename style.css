@@ -55,3 +55,35 @@ preços do ingresso confira!{ color: black}
     border-radius: 24px;
     width: 90%;
 }
+
+.tópicos{
+    background:#ffffff
+    text align: center;
+    padding: 1em 0;
+}
+
+.tópicos__título {
+    color:rgb(255, 255, 255);
+    font-weight: 300;
+    margin-bottom: 1em;
+}
+
+.tópicos__lista{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.tópicos__item{
+    margin: 2em 0.5em;
+    list-style:none;
+}
+
+.tópicos__link {
+    color:rgb(255, 255, 255);
+    padding: 1em;
+    background-color: rgb(0, 0, 0);
+    text text-decoration: none;
+    font-size:14px;
+    font-weight:700;
+
+}
