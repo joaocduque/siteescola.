@@ -44,19 +44,18 @@
     background-color: white;
     color:black;
     text-align: center;
+    padding: 1em 0;
 }
 
 .contato {
     background-color:#ffffff;
+    padding: 1em 0;
 
 }
 .contato__titulo{
     color: #ffffff; display: flex; justify-content: space-around; align-items: center;
 }
-
-preços do ingresso confira!{ color: black}
       
-
 .contato__email {
     padding: 1em;
     border: :1px solid;
@@ -89,7 +88,7 @@ preços do ingresso confira!{ color: black}
 .tópicos__link {
     color:rgb(255, 255, 255);
     padding: 1em;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(252, 134, 0);
     text text-decoration: none;
     font-size:14px;
     font-weight:700;
@@ -98,9 +97,9 @@ preços do ingresso confira!{ color: black}
 
  .banner {
     background: #ffffff ;
-    color: rgb(255, 255, 255)
-    text-align;center;
-    padding 2,5em 2em;
+    color: rgb(255, 255, 255);;
+    text-align: center;
+    padding:2.5em 2em;
  }
 
    .banner__titulo{
