@@ -97,7 +97,7 @@
 
  .banner {
     background: #ffffff ;
-    color: rgb(255, 255, 255);;
+    color: rgb(0, 0, 0);;
     text-align: center;
     padding:2.5em 2em;
  }
@@ -125,7 +125,7 @@
         font-family: var(--fonte-principal);
         font-weight: 400;
         text-align: center;
-        color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
         background-position: 1em;
     }
 
